@@ -14,7 +14,13 @@ comment syntax
 2. Trucks
 3. boats
 
+**This is a bold text**
 
+*Made you Look*
+
+# Echo
+## Echo
+### Echo
 
 <!--
 Hi Guido
